@@ -1,0 +1,47 @@
+*
+{
+  padding: 0;
+  margin: 0;
+}
+
+.background
+{
+  background: url("01.jpg");
+  text-align: center;
+  color: #aae;
+}
+
+p
+{
+  width: 40%;
+  margin: auto;
+}
+
+.title
+{
+  padding: 40vh 0;
+}
+
+.title p
+{
+  margin-left: 50vw; 
+}
+
+h1{
+  font-size: 90px;
+  color: #2051fc;
+}
+
+h2
+{
+  margin-top: 100px;
+}
+
+img
+{
+  width: 500px;
+}
+.casalote
+{
+  border-radius: 15px;
+}
